@@ -1,0 +1,20 @@
+{
+    "anytime" : [
+        "any1"
+    ],
+    "morning" : [
+        "morn1",
+        "morn2",
+        "morn3"
+    ],
+    "afternoon" : [
+        "after1",
+        "ater2",
+        "after3"
+    ],
+    "evening" : [
+        "ev1",
+        "ev2",
+        "ev3"
+    ]
+}
